@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/(https://linkedin.com/in/sachin-kalkandha20881)/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/[your-leetcode](https://leetcode.com/sachin11729)/" target="_blank">
+  <a href="https://leetcode.com/sachin11729)/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
   <a href="https://codeforces.com/profile/[your-cf](https://codeforces.com/profile/Sachin128)" target="_blank">
