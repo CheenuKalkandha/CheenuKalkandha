@@ -33,5 +33,5 @@ I'm passionate about competitive programming, web development, and building mean
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SachinKalkandha&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CheenuKalkandha&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
