@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sachin Kalkandha</h1>
-<p align="center">BTech ECE | Competitive Programmer | Full Stack Web Dev Enthusiast</p>
+<p align="center">BTech ECE | Full Stack Web Dev Enthusiast</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/sachin-kalkandha20881" target="_blank">
